@@ -3849,7 +3849,7 @@
             ]
         },
         "participantsUpdate": {
-            "texto1": "*╭┈⊰* @subject *⊰┈ ✦*\n*┊✨ BIENVENIDO(A)!!*\n┊💖 @user\n┊📄 *LEA LA DESCRIPCIÓN DEL GRUPO*\n*╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ✦*",
+            "texto1": "*╭┈⊰* @subject *⊰┈ ✦*\n*┊✨ BIENVENIDO(A)!!*\n┊💖 @user\n┊📄 *LEA LA DESCRIPCIÓN DEL GRUPO* @desc\n*╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ✦*",
             "texto2": "👋 ¡Hasta luego!\n@user",
             "texto3": "*[ ℹ️ ] @user Fue promovido a administrador.*",
             "texto4": "*[ ℹ️ ] @user Fue degradado de administrador.*",
