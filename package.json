@@ -1,5 +1,5 @@
 {
-  "name": "themystic-bot-md",
+  "name": "𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧",
   "version": "1.0.0",
   "description": "Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.",
   "main": "index.js",
@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+  "homepage": "https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR",
   "author": {
     "name": "BrunoSobrino"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BrunoSobrino/TheMystic-Bot-MD.git"
+    "url": "git+https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR.git"
   },
   "bugs": {
-    "url": "https://github.com/BrunoSobrino/TheMystic-Bot-MD/issues"
+    "url": "https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {

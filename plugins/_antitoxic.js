@@ -1,4 +1,4 @@
-// TheMystic-Bot-MD@BrunoSobrino - _antitoxic.js
+// 𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧@BrunoSobrino - _antitoxic.js
 
  // Para configurar o idioma, na raiz do projeto altere o arquivo config.json
   // Para configurar el idioma, en la raíz del proyecto, modifique el archivo config.json.

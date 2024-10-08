@@ -1,4 +1,4 @@
-/* Creado por Bruno Sobrino (https://github.com/BrunoSobrino) */
+/* Creado por 𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧 (https://github.com/BrunoSobrino) */
 import fetch from 'node-fetch';
 import axios from 'axios';
 
