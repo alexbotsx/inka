@@ -48,8 +48,6 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 
 > *𝙂𝙍𝙐𝙋𝙊𝙎* 🫂
 ;;- ────────
-➜  ${usedPrefix}menuff
-➜  ${usedPrefix}comandosff
 ➜  ${usedPrefix}kick
 ➜  ${usedPrefix}grupo
 ➜  ${usedPrefix}promote
@@ -59,43 +57,6 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 ➜  ${usedPrefix}setwelcome
 ➜  ${usedPrefix}setbye
 ➜  ${usedPrefix}fantasmas
-︶︶︶︶︶︶︶︶
-
-> *𝙁𝙍𝙀𝙀 𝙁𝙄𝙍𝙀* 🥷🏻
-;;- ────────
-➜  ${usedPrefix}menuff
-➜  ${usedPrefix}bermuda
-➜  ${usedPrefix}kalahari
-➜  ${usedPrefix}alpes
-➜  ${usedPrefix}purgatorio
-➜  ${usedPrefix}nexterra
-➜  ${usedPrefix}agendasemanal
-︶︶︶︶︶︶︶︶
-
-> *𝘽𝙐𝙎𝘾𝘼𝙍 𝙑𝙎 𝙋𝙇𝘼𝙉𝙏𝙄𝙇𝙇𝘼𝙎 🫅🏻*
-;;- ────────
-➜  ${usedPrefix}buscarvsmasc*
-➜  ${usedPrefix}bsmsac*
-➜  ${usedPrefix}buscarvsfem*
-➜  ${usedPrefix}bsfem*
-➜  ${usedPrefix}buscarvsmixto*
-➜  ${usedPrefix}bsmixto*
-︶︶︶︶︶︶︶︶
-
-> *𝙍𝙀𝙂𝙇𝘼𝙎 𝙇𝙄𝙎𝙏𝘼 𝙁𝙄𝘾𝙃𝘼* ✅
-;;- ────────
-➜  ${usedPrefix}Fem4
-➜  ${usedPrefix}FemInterna4
-➜  ${usedPrefix}Masc4
-➜  ${usedPrefix}Masc6
-➜  ${usedPrefix}MascInterna4
-➜  ${usedPrefix}MascInterna6
-➜  ${usedPrefix}Mixto4
-➜  ${usedPrefix}Mixto6
-➜  ${usedPrefix}MixtoInterna4
-➜  ${usedPrefix}MixtoInterna6
-➜  ${usedPrefix}apos
-➜  ${usedPrefix}mapa
 ︶︶︶︶︶︶︶︶
 
 > *𝙄𝙉𝙏𝙀𝙍𝘼𝘾𝙄𝙊𝙉* 💚
@@ -289,7 +250,6 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 ➜  ${usedPrefix}unete enlace
 ➜  ${usedPrefix}dardiamantes cantidad
 ➜  ${usedPrefix}darxp cantidad
-➜  ${usedPrefix}dargatacoins cantidad
 ➜  ${usedPrefix}addprem | userpremium @tag cantidad
 ➜  ${usedPrefix}addprem2 | userpremium2 @tag cantidad
 ➜  ${usedPrefix}addprem3 | userpremium3 @tag cantidad
