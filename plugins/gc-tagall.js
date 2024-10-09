@@ -4,7 +4,7 @@ let handler = async(m, { isOwner, isAdmin, conn, text, participants, args, comma
   throw false
   }
   let pesan = args.join` `
-  let oi = `@inkaikos_ff:  ${pesan}`
+  let oi = `@yaritza.dzn05${pesan}`
   let teks = `💎𝙀𝙏𝙄𝙌𝙐𝙀𝙏𝘼 𝙂𝙀𝙉𝙀𝙍𝘼𝙇🐍
    ${oi}\n\n 🐸𝐒𝐀𝐏𝐈𝐓𝐎 𝐁𝐎𝐓🐸\n`
   for (let mem of participants) {
