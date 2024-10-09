@@ -54,7 +54,7 @@ const handler = async (m, {conn, args}) => {
            title: tradutor.texto1[0],
            body: '𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝',
            previewType: 0, thumbnail: fs.readFileSync('./src/assets/images/menu/languages/es/menu.png'),
-           sourceUrl: `https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR`}
+           sourceUrl: `https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ==`}
            }
         }
       );  

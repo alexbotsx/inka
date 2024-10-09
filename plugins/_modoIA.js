@@ -16,9 +16,9 @@ handler.before = async (m) => {
         let textodem = m.text;
         const name = mconn.conn.getName(m.sender)
         const namedem = `${name || 'Sin definir'}`
-        const sytm = await fetch(`https://raw.githubusercontent.com/BrunoSobrino/𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧/master/src/JSON/chatgpt_indicciones.txt`).then(v => v.text());
+        const sytm = await fetch(`https://raw.githubusercontent.com/BrunoSobrino/𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧/master/src/JSON/chatgpt_indicciones.txt`).then(v => v.text());
         const sistema1 = sytm.replace('@name', namedem)
-        const sistema2 = 'Tu seras 𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧 - MD, un bot de WhatsApp creado por 𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧';
+        const sistema2 = 'Tu seras 𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧 - MD, un bot de WhatsApp creado por 𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧';
         try {
         async function getOpenAIChatCompletion(texto) {
         const openaiAPIKey = global.openai_key;

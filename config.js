@@ -16,56 +16,56 @@ global.isBaileysFail = false
 global.defaultLenguaje = 'es';
 
 global.owner = [
-  ['595984303784', '👑 Mystic - Creador 👑', true],
-  ['595984303784', '💫 Mystic - Collaborator 2 💫', true],
-  ['595984303784', '💫 Mystic - Collaborator 3 💫', true],
-  ['595984303784', '💫 Mystic - Collaborator 4 💫', true],
-  ['595984303784', '💫 Mystic - Collaborator 5 💫', true],
-  ['595984303784', '💫 Mystic - Collaborator 6 💫', true],
-  ['595984303784', '💫 Mystic - Rey Endymion 💫', false],
-  ['595984303784', '💫 Mystic - Collaborator 8 💫', true],
-  ['595984303784', '💫 Mystic - OfcDiego', true],
-  ['595984303784', '💫 Mystic - By Alba070503 💫', true],
-  ['595984303784', '💫 Mystic - Gabriel Ofc', true], 
-  ['595984303784', '💫 Mystic - Tester Fabri115💫', true],
-  ['595984303784', '💫 Mystic - Saad 💫', true], 
-  ['595984303784', '💫 Mystic - Sarethh 💫', true],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'], 
-  ['595984303784'],  
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'], 
-  ['595984303784'], 
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'], 
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784']
+  ['51968914403', '👑 Mystic - Creador 👑', true],
+  ['51968914403', '💫 Mystic - Collaborator 2 💫', true],
+  ['51968914403', '💫 Mystic - Collaborator 3 💫', true],
+  ['51968914403', '💫 Mystic - Collaborator 4 💫', true],
+  ['51968914403', '💫 Mystic - Collaborator 5 💫', true],
+  ['51968914403', '💫 Mystic - Collaborator 6 💫', true],
+  ['51968914403', '💫 Mystic - Rey Endymion 💫', false],
+  ['51968914403', '💫 Mystic - Collaborator 8 💫', true],
+  ['51968914403', '💫 Mystic - OfcDiego', true],
+  ['51968914403', '💫 Mystic - By Alba070503 💫', true],
+  ['51968914403', '💫 Mystic - Gabriel Ofc', true], 
+  ['51968914403', '💫 Mystic - Tester Fabri115💫', true],
+  ['51968914403', '💫 Mystic - Saad 💫', true], 
+  ['51968914403', '💫 Mystic - Sarethh 💫', true],
+  ['51968914403'],
+  ['51968914403'],
+  ['51968914403'],
+  ['51968914403'],
+  ['51968914403'], 
+  ['51968914403'],  
+  ['51968914403'],
+  ['51968914403'],
+  ['51968914403'],
+  ['51968914403'], 
+  ['51968914403'], 
+  ['51968914403'],
+  ['51968914403'],
+  ['51968914403'],
+  ['51968914403'],
+  ['51968914403'], 
+  ['51968914403'],
+  ['51968914403'],
+  ['51968914403'],
+  ['51968914403'],
+  ['51968914403'],
+  ['51968914403']
 ];
 
-global.suittag = ['595984303784'];
-global.prems = ['595984303784'];
+global.suittag = ['51968914403'];
+global.prems = ['51968914403'];
 
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
 global.packname = 'Sticker';
-global.author = '𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧';
-global.wm = '𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧';
-global.titulowm = '𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧';
-global.titulowm2 = `𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧`
-global.igfg = '𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧';
+global.author = '𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧';
+global.wm = '𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧';
+global.titulowm = '𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧';
+global.titulowm2 = `𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧`
+global.igfg = '𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 /*global.imagen1 = fs.createReadStream('./src/assets/images/menu/languages/es/menu.png');
@@ -91,16 +91,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧`;
-global.gt = '𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧';
-global.mysticbot = '𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧';
-global.channel = 'https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR';
-global.md = 'https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR';
-global.mysticbot = 'https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR';
+global.wm2 = `${dia} ${fecha}\n𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧`;
+global.gt = '𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧';
+global.mysticbot = '𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧';
+global.channel = 'https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ==';
+global.md = 'https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ==';
+global.mysticbot = 'https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ==';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '595984303784';
+global.nomorown = '51968914403';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';

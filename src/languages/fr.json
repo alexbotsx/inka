@@ -795,7 +795,7 @@
         },
         "downloader_ytmeta": {
             "texto1": "[❗] Entrez un lien YouTube.",
-            "texto2": "🤴🏻 Téléchargé par BrunoSobrino & 𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧 🤖"
+            "texto2": "🤴🏻 Téléchargé par BrunoSobrino & 𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧 🤖"
         },
         "downloader_ytv_2": {
             "texto1": "[❗𝐈𝐍𝐅𝐎❗] Entrez la commande plus le lien de la vidéo YouTube*",
@@ -1882,7 +1882,7 @@
                 "*[❗] INFORMATION : IMPOSSIBLE D'AJOUTER",
                 "À VOTRE COMPTE CAR UN PROBLÈME EST SURVENU. VEUILLEZ NOTER QUE LA PERSONNE A QUITTÉ LE GROUPE OU A ANNULÉ SA CONFIDENTIALITÉ DE GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. L'INVITATION A ÉTÉ ENVOYÉE AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE OU LA PERSONNE A CONFIRMÉ SA CONFIDENTIALITÉ DE GROUPE. LES ADMINISTRATEURS ENVERRONT L'INVITATION AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. JE VOUS INVITE À L'INVITATION AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. LES ADMINISTRATEURS ENVERRO..."
             ],
-            "texto4": "Salut !! Bonjour, je me présente, je suis 𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧 et je suis un Bot pour WhatsApp. Quelqu'un du groupe a utilisé la commande pour vous ajouter au groupe, mais je n'ai pas pu vous ajouter, donc je vous envoie l'invitation pour que vous nous rejoigniez. Nous vous attendons !!",
+            "texto4": "Salut !! Bonjour, je me présente, je suis 𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧 et je suis un Bot pour WhatsApp. Quelqu'un du groupe a utilisé la commande pour vous ajouter au groupe, mais je n'ai pas pu vous ajouter, donc je vous envoie l'invitation pour que vous nous rejoigniez. Nous vous attendons !!",
             "texto5": "*[❗] INFORMATION : IMPOSSIBLE D'AJOUTER VOTRE NUMÉRO CAR UN PROBLÈME EST SURVENU. VEUILLEZ NOTER QUE LA PERSONNE A QUITTÉ LE GROUPE OU A ANNULÉ SA CONFIDENTIALITÉ DE GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. L'INVITATION A ÉTÉ ENVOYÉE AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE OU LA PERSONNE A CONFIRMÉ SA CONFIDENTIALITÉ DE GROUPE. LES ADMINISTRATEURS ENVERRON..."
         },
         "gc_admins": {
@@ -2104,15 +2104,15 @@
             "texto1": [
                 "*[❗] Vous êtes dans une conversation ou vous devez utiliser la fonction de chatbot*\n\n*—◉ Exemples de demandes et d'ordres*\n*◉ Réflexion sur la série Merlina 2022 de Netflix*\n*◉ Code en JS pour un jeu de cartes*"
             ],
-            "texto2": "Vous agirez en tant que Bot WhatsApp créé par BrunoSobrino, vous serez 𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧.",
-            "texto3": "Vous agirez en tant que Bot WhatsApp créé par BrunoSobrino, vous serez 𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧.",
+            "texto2": "Vous agirez en tant que Bot WhatsApp créé par BrunoSobrino, vous serez 𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧.",
+            "texto3": "Vous agirez en tant que Bot WhatsApp créé par BrunoSobrino, vous serez 𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧.",
             "texto4": "*[❗] Erreur, veuillez réessayer*"
         },
         "herramientas_chatgptvoz": {
             "texto1": [
                 "*[❗] Vous êtes dans une conversation ou vous devez utiliser la fonction de chatbot*\n\n*—◉ Exemples de demandes et d'ordres*\n*◉ Réflexion sur la série Merlina 2022 de Netflix*\n*◉ Code en JS pour un jeu de cartes*"
             ],
-            "texto2": "Vous agirez en tant que Bot WhatsApp créé par BrunoSobrino, vous serez 𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧.",
+            "texto2": "Vous agirez en tant que Bot WhatsApp créé par BrunoSobrino, vous serez 𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧.",
             "texto3": "*[❗] Erreur, veuillez réessayer*"
         },
         "herramientas_clima": {
@@ -2313,20 +2313,20 @@
         },
         "info_creador": {
             "texto1": [
-                "*—◉ Le numéro de mon créateur est wa.me/595984303784*",
-                "*—◉ Le numéro du collaborateur 1 est wa.me/595984303784*",
-                "*—◉ Le numéro du collaborateur 2 est wa.me/595984303784*",
-                "*—◉ Le numéro du collaborateur 3 est wa.me/595984303784*",
-                "*—◉ Le numéro du collaborateur 4 est wa.me/595984303784*",
-                "*—◉ Le numéro du collaborateur 5 est wa.me/595984303784*",
-                "*—◉ Le numéro du collaborateur 6 est wa.me/595984303784*",
-                "*—◉ Le numéro du collaborateur 7 est wa.me/595984303784*",
-                "*—◉ Le numéro du collaborateur 8 est wa.me/595984303784*",
-                "*—◉ Le numéro du collaborateur 9 est wa.me/595984303784*",
-                "*—◉ Le numéro du collaborateur 10 est wa.me/595984303784*",
-                "*—◉ Le contact du collaborateur 11 est https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR*",
-                "*—◉ Le numéro du collaborateur 12 est wa.me/595984303784*",
-                "*—◉ Le numéro du collaborateur 13 au Brésil est wa.me/595984303784*"
+                "*—◉ Le numéro de mon créateur est wa.me/51968914403*",
+                "*—◉ Le numéro du collaborateur 1 est wa.me/51968914403*",
+                "*—◉ Le numéro du collaborateur 2 est wa.me/51968914403*",
+                "*—◉ Le numéro du collaborateur 3 est wa.me/51968914403*",
+                "*—◉ Le numéro du collaborateur 4 est wa.me/51968914403*",
+                "*—◉ Le numéro du collaborateur 5 est wa.me/51968914403*",
+                "*—◉ Le numéro du collaborateur 6 est wa.me/51968914403*",
+                "*—◉ Le numéro du collaborateur 7 est wa.me/51968914403*",
+                "*—◉ Le numéro du collaborateur 8 est wa.me/51968914403*",
+                "*—◉ Le numéro du collaborateur 9 est wa.me/51968914403*",
+                "*—◉ Le numéro du collaborateur 10 est wa.me/51968914403*",
+                "*—◉ Le contact du collaborateur 11 est https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ==*",
+                "*—◉ Le numéro du collaborateur 12 est wa.me/51968914403*",
+                "*—◉ Le numéro du collaborateur 13 au Brésil est wa.me/51968914403*"
             ],
             "texto2": [
                 "「 Bonjour le Monde 」",
@@ -2342,20 +2342,20 @@
                 " ➤ CLÉ :",
                 "646180192175788481",
                 "➤ BANQUE : STP",
-                "➤ BÉNÉFICIAIRE : 𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧",
+                "➤ BÉNÉFICIAIRE : 𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧",
                 "➤ CONCEPT : SOUTIEN",
-                "➤ PAYPAL : https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR",
+                "➤ PAYPAL : https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ==",
                 "👉🏻 CONTACTEZ-NOUS EN CAS DE BESOIN",
                 "PLUS DE DONNÉES ET POUR REMERCIER",
-                "wa.me/595984303784"
+                "wa.me/51968914403"
             ]
         },
         "info_estado": {
             "texto1": [
                 "*< INFORMATIONS - ÉTAT />*_",
-                "▢ *Prop. :* 𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧",
-                "▢ *WA :* +595984303784",
-                "▢ *PayPal :* https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR",
+                "▢ *Prop. :* 𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧",
+                "▢ *WA :* +51968914403",
+                "▢ *PayPal :* https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ==",
                 "▢ *Ping :*",
                 "▢ *Temps d'activité :*",
                 "▢ *Préfixe :*",
@@ -2378,13 +2378,13 @@
         },
         "info_groupsofc": {
             "texto1": [
-                "*𝙷𝙾𝙻𝙰 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 👋🏻, 𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝙴𝙼 𝙰𝙻𝙶𝚄𝙽𝚂 𝙶𝚁𝚄𝙿𝙾𝚂 𝙳𝙾 𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧- 𝚃𝙴𝙰𝙼 𝙿𝙰𝚁𝙰 𝙲𝙾𝙽𝚅𝙸𝚅𝙸𝚁 𝙲𝙾𝙼 𝙻𝙰 𝙲𝙾𝙼𝚄𝙽𝙸𝙳𝙰𝙳𝙴 :D*",
+                "*𝙷𝙾𝙻𝙰 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 👋🏻, 𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝙴𝙼 𝙰𝙻𝙶𝚄𝙽𝚂 𝙶𝚁𝚄𝙿𝙾𝚂 𝙳𝙾 𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧- 𝚃𝙴𝙰𝙼 𝙿𝙰𝚁𝙰 𝙲𝙾𝙽𝚅𝙸𝚅𝙸𝚁 𝙲𝙾𝙼 𝙻𝙰 𝙲𝙾𝙼𝚄𝙽𝙸𝙳𝙰𝙳𝙴 :D*",
                 "*➤ Groupes officiels du Bot :*",
-                "*1.-* https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR",
-                "*2.-* https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR",
-                "*3.-* https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR",
-                "*4.-* https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR",
-                "*5.-* https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR"
+                "*1.-* https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ==",
+                "*2.-* https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ==",
+                "*3.-* https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ==",
+                "*4.-* https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ==",
+                "*5.-* https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ=="
             ],
             "texto2": "「  Bonjour le Monde 」",
             "texto3": "ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩"
@@ -2401,7 +2401,7 @@
                 "*Panneau :*",
                 "https://panel.cafirexos.com",
                 "*WhatsApp*",
-                "https://wa.me/595984303784",
+                "https://wa.me/51968914403",
                 "*E-mail*",
                 "contacto@cafirexos.com",
                 "*Chaîne WhatsApp*",
@@ -2412,7 +2412,7 @@
             "texto2": "Le meilleur hébergement 🚀"
         },
         "info_instalarbot": {
-            "texto1": "*—◉ INSTALLATION DU BOT PRINCIPAL*\n> Tutoriel : https://youtu.be/eC9TfKICpcY\n> Page Officielle : https://boxmineworld.com\n> Tableau de Bord : https://dash.boxmineworld.com/home\n> Panneau : https://panel.boxmineworld.com\n> Support : https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ INSTALLATION DU BOT TERTIAIRE\n> Tutoriel : https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ COMMANDES D'INSTALLATION*\n> Commandes :\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR.git && cd 𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧\n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ ACTIVATION EN CAS D'ARRÊT SUR TERMUX ✔️\nTAPER LES COMMANDES SUIVANTES UNE PAR UNE :\n> cd 𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧\n> npm start\n\n------------------------------------\n\n—◉ 👽 OBTENIR UN AUTRE CODE QR SUR TERMUX 👽\nTAPER LES COMMANDES SUIVANTES UNE PAR UNE :\n> cd 𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧\n> rm -rf MysticSession\n> npm start",
+            "texto1": "*—◉ INSTALLATION DU BOT PRINCIPAL*\n> Tutoriel : https://youtu.be/eC9TfKICpcY\n> Page Officielle : https://boxmineworld.com\n> Tableau de Bord : https://dash.boxmineworld.com/home\n> Panneau : https://panel.boxmineworld.com\n> Support : https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ INSTALLATION DU BOT TERTIAIRE\n> Tutoriel : https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ COMMANDES D'INSTALLATION*\n> Commandes :\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ==.git && cd 𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧\n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ ACTIVATION EN CAS D'ARRÊT SUR TERMUX ✔️\nTAPER LES COMMANDES SUIVANTES UNE PAR UNE :\n> cd 𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧\n> npm start\n\n------------------------------------\n\n—◉ 👽 OBTENIR UN AUTRE CODE QR SUR TERMUX 👽\nTAPER LES COMMANDES SUIVANTES UNE PAR UNE :\n> cd 𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧\n> rm -rf MysticSession\n> npm start",
             "texto2": "Le meilleur Bot de WhatsApp"
         },
         "info_listprem": {
@@ -2447,12 +2447,12 @@
             "texto1": [
                 "_*< INFORMATIONS - DÉPÔT />*_",
                 "▢ *Nom :*",
-                "𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧",
+                "𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧",
                 "▢ *Visiteurs :*",
                 "▢ *Taille :*",
                 "▢ *Dernière mise à jour :*",
                 "▢ *URL :*",
-                "https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR",
+                "https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ==",
                 "Forks ·",
                 "Étoiles ·",
                 "Problèmes\n\n",
@@ -3517,7 +3517,7 @@
             "texto11": [
                 "[ ⚠️ ] Avertissement",
                 "[ ⚠️ ] Avertissement",
-                "https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR"
+                "https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ=="
             ]
         },
         "participantsUpdate": {

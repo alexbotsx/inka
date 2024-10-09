@@ -29,7 +29,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 
 *╭━〔 𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓 〕━╮*
 ┃➔ ⭐ *Owner:* Alex
-┃➔ 📱 *Contacto*: wa.me/595984303784
+┃➔ 📱 *Contacto*: wa.me/51968914403
 ┃➔ 💌 *Pruebas:* 
 ╰━━━━━━━━━━━━━━╯
 

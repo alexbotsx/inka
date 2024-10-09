@@ -4,7 +4,7 @@ let previousCommitSHA = '';
 let previousUpdatedAt = '';
 let previousCommitUser = ''; 
 const owner = 'BrunoSobrino';
-const repo = '𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧';
+const repo = '𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧';
 const handler = async (m, {conn, text, usedPrefix, command}) => {
   const datas = global
   const idioma = datas.db.data.users[m.sender].language || global.defaultLenguaje

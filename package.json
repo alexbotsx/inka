@@ -1,5 +1,5 @@
 {
-  "name": "𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧",
+  "name": "𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧",
   "version": "1.0.0",
   "description": "Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.",
   "main": "index.js",
@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR",
+  "homepage": "https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ==",
   "author": {
     "name": "BrunoSobrino"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR.git"
+    "url": "git+https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ==.git"
   },
   "bugs": {
-    "url": "https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR/issues"
+    "url": "https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ==/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {

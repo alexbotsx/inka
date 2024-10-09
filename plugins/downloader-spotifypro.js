@@ -1,4 +1,4 @@
-// 𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧@BrunoSobrino - descargas-spotifypro.js
+// 𝗦𝗔𝗣𝗜𝗧𝗢 𝗕𝗢𝗧@BrunoSobrino - descargas-spotifypro.js
 // Creditos de los tags a @darlyn1234 y diseño a @ALBERTO9883
 // Este plugins descarga por texto, album, track o playlist de spotify.
 import pkg from 'sanzy-spotifydl'; 

@@ -37,7 +37,7 @@ const handler = async (m, {conn, usedPrefix}) => {
   
   ${tradutor.texto1[13]}`.trim();
   const buttonMessage= {
-    'document': {url: `https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR`},
+    'document': {url: `https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ==`},
     'mimetype': `application/${document}`,
     'fileName': `${tradutor.texto2[0]}`,
     'fileLength': 99999999999999,
@@ -46,13 +46,13 @@ const handler = async (m, {conn, usedPrefix}) => {
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR',
+        'mediaUrl': 'https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ==',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': tradutor.texto2[1],
         'body': wm,
         'thumbnail': imagen1,
-        'sourceUrl': 'https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR'}},
+        'sourceUrl': 'https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ=='}},
     'caption': text,
     'footer': wm,
     // 'buttons':[

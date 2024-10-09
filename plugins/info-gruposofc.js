@@ -9,13 +9,13 @@ const handler = async (m, {conn, usedPrefix}) => {
   const text = `${tradutor.texto1[0]}
 
 ${tradutor.texto1[1]}
-1.- https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR
+1.- https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ==
 
-2.- https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR
+2.- https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ==
 
-3.- https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR
+3.- https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ==
 
-4.- https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR
+4.- https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ==
 
 > Sunlight Team  :
 
@@ -23,7 +23,7 @@ ${tradutor.texto1[1]}
 
 2.- https://chat.whatsapp.com/Fy74b6fgE9SJJpHVi6CKJY`.trim();
   const buttonMessage= {
-    'document': {url: `https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR`},
+    'document': {url: `https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ==`},
     'mimetype': `application/${document}`,
     'fileName': `${tradutor.texto2}`,
     'fileLength': 99999999999999,
@@ -32,13 +32,13 @@ ${tradutor.texto1[1]}
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR',
+        'mediaUrl': 'https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ==',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': `${tradutor.texto3}`,
         'body': wm,
         'thumbnail': imagen1,
-        'sourceUrl': 'https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR'}},
+        'sourceUrl': 'https://www.instagram.com/yaritza.dzn05?igsh=MXg2dWhjdTV0eWxvaQ=='}},
     'caption': text,
     'footer': wm,
     'headerType': 6};
