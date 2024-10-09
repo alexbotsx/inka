@@ -28,7 +28,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const str = `ＭＥＮＵ | ＣＯＭＰＬＥＴＯ ⌟*
 
 *╭━〔 𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓 〕━╮*
-┃➔ ⭐ *Owner:* Alex
+┃➔ ⭐ *Owner:* YariDzn
 ┃➔ 📱 *Contacto*: wa.me/51968914403
 ┃➔ 💌 *Pruebas:* 
 ╰━━━━━━━━━━━━━━╯
